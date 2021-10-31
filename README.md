@@ -33,7 +33,7 @@
 - [Lý thuyết về OS command injection](https://portswigger.net/web-security/os-command-injection)
 - [PoC](https://github.com/FPTU-Ethical-Hackers-Club/Server-side-vulnerabilities/tree/main/SQL%20and%20OS%20command%20injection)
 - [Source PoC](https://github.com/FPTU-Ethical-Hackers-Club/Server-side-vulnerabilities/tree/main/SQL%20and%20OS%20command%20injection/source)
-- [Lý thuyết về Blind OS command injection]((https://portswigger.net/web-security/os-command-injection)
+- [Lý thuyết về Blind OS command injection](https://portswigger.net/web-security/os-command-injection)
 - [PoC](https://github.com/FPTU-Ethical-Hackers-Club/Server-side-vulnerabilities/blob/main/Blind%20command%20Injection/README.md)
 - [Source PoC](https://github.com/FPTU-Ethical-Hackers-Club/Server-side-vulnerabilities/tree/main/Blind%20command%20Injection/source)
 
