@@ -62,9 +62,9 @@
 
 - [Lý thuyết về SSTI](https://portswigger.net/research/server-side-template-injection)
 - [Các PoC phổ biến](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/README.md)
-- [Một số nguồn tham khảo]
-\+ [Server-Side Template Injections Explained - PwnFunction()](https://www.youtube.com/watch?v=SN6EVIG4c-0)
-\+ [Server-Side Template Injection: RCE For The Modern Web App - James Kettle](https://www.youtube.com/watch?v=3cT0uE7Y87s)
+- Một số nguồn tham khảo
+  - [Server-Side Template Injections Explained - PwnFunction()](https://www.youtube.com/watch?v=SN6EVIG4c-0)
+  - [Server-Side Template Injection: RCE For The Modern Web App - James Kettle](https://www.youtube.com/watch?v=3cT0uE7Y87s)
 
 
 ## Record và chat trong buổi training:
