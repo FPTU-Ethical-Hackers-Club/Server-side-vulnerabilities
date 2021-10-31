@@ -55,8 +55,9 @@
 
 
 
-## Record và chat trong buổi training:
+## Record, chat và slide trong buổi training:
 
-- Link record: [link](https://drive.google.com/file/d/1P2xYG8Fpf7LDmTDxSakDjyiE5LuUa_eB/view?usp=sharing) 
-- Link chat: [link](https://docs.google.com/document/d/1pI-mFhrfW4shBaTd6tUTTdFXXLbu39KGSigV-trAwYw/edit?usp=sharing)
+- [Record](https://drive.google.com/file/d/1P2xYG8Fpf7LDmTDxSakDjyiE5LuUa_eB/view?usp=sharing) 
+- [Chat](https://docs.google.com/document/d/1pI-mFhrfW4shBaTd6tUTTdFXXLbu39KGSigV-trAwYw/edit?usp=sharing)
+- [Slide](https://github.com/FPTU-Ethical-Hackers-Club/Server-side-vulnerabilities/blob/main/SQLi_Command_SSRF.pptx) 
 
