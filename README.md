@@ -7,26 +7,26 @@
 - [Source PoC](https://github.com/FPTU-Ethical-Hackers-Club/Server-side-vulnerabilities/tree/main/SQL%20and%20OS%20command%20injection/source)
 - Các bài lab theo chủ đề về SQLi:
 
-\+ [Retrieving hidden data](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data).
+  - [Retrieving hidden data](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data).
 
-\+ [Subverting application logic](https://portswigger.net/web-security/sql-injection/lab-login-bypass)
+  - [Subverting application logic](https://portswigger.net/web-security/sql-injection/lab-login-bypass)
 
-\+ [UNION attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
+  - [UNION attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
 
-\+ [Examining the database](https://portswigger.net/web-security/sql-injection/examining-the-database)
+  - [Examining the database](https://portswigger.net/web-security/sql-injection/examining-the-database)
 
 - [Lý thuyết về Blind SQLi](https://portswigger.net/web-security/sql-injection/blind)
 - Các bài lab theo chủ đề về Blind SQLi:
 
-\+ [Conditional responses](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses)
+  - [Conditional responses](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses)
 
-\+ [Conditional errors](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors)
+  - [Conditional errors](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors)
 
-\+ [Time delays](https://portswigger.net/web-security/sql-injection/blind/lab-time-delays)
+  - [Time delays](https://portswigger.net/web-security/sql-injection/blind/lab-time-delays)
 
-\+ [Time delays and information retrieval](https://portswigger.net/web-security/sql-injection/blind/lab-time-delays-info-retrieval)
+  - [Time delays and information retrieval](https://portswigger.net/web-security/sql-injection/blind/lab-time-delays-info-retrieval)
 
-\+ [Out-of-band interaction](https://portswigger.net/web-security/sql-injection/blind/lab-out-of-band)
+  - [Out-of-band interaction](https://portswigger.net/web-security/sql-injection/blind/lab-out-of-band)
 
 ### 2. OS command injection:
 
